@@ -1,3 +1,6 @@
 [submodule "Multiple View Geometry/MVGFinalAssignment"]
 	path = Multiple View Geometry/MVGFinalAssignment
 	url = git@github.com:antebi-itai/MVGFinalAssignment.git
+[submodule "DL for CV/BrainTumorDetection"]
+	path = DL for CV/BrainTumorDetection
+	url = git@github.com:antebi-itai/BrainTumorDetection.git
