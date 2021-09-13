@@ -4,3 +4,6 @@
 [submodule "DL for CV/BrainTumorDetection"]
 	path = DL for CV/BrainTumorDetection
 	url = git@github.com:antebi-itai/BrainTumorDetection.git
+[submodule "KernelNN"]
+	path = KernelNN
+	url = git@github.com:antebi-itai/KernelNN.git
