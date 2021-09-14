@@ -7,3 +7,12 @@
 [submodule "KernelNN"]
 	path = KernelNN
 	url = git@github.com:antebi-itai/KernelNN.git
+[submodule "Intro to Computer Vision/HW2 - Multi-Scale Pyramids"]
+	path = Intro to Computer Vision/HW2 - Multi-Scale Pyramids
+	url = git@github.com:wis-intro-vision/HW2-2021-visionaries.git
+[submodule "Intro to Computer Vision/HW4 - Image and Video Alignment"]
+	path = Intro to Computer Vision/HW4 - Image and Video Alignment
+	url = git@github.com:wis-intro-vision/assignment-4-image-and-video-alignment-visionaries-ex4.git
+[submodule "Intro to Computer Vision/HW5 - Deep Image Prior"]
+	path = Intro to Computer Vision/HW5 - Deep Image Prior
+	url = git@github.com:wis-intro-vision/assignment-5-deep-image-prior-hw5-2021-visionaries.git
