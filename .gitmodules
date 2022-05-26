@@ -16,3 +16,6 @@
 [submodule "Intro to Computer Vision/HW5 - Deep Image Prior"]
 	path = Intro to Computer Vision/HW5 - Deep Image Prior
 	url = git@github.com:wis-intro-vision/assignment-5-deep-image-prior-hw5-2021-visionaries.git
+[submodule "Reinforcement-Learning-CS234"]
+	path = Reinforcement-Learning-CS234
+	url = https://github.com/antebi-itai/Reinforcement-Learning-CS234
