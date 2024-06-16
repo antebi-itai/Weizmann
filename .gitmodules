@@ -22,3 +22,6 @@
 [submodule "Normalizing-Flows"]
 	path = Normalizing-Flows
 	url = https://github.com/antebi-itai/Normalizing-Flows.git
+[submodule "Thesis"]
+	path = Thesis
+	url = https://github.com/antebi-itai/Zero-Shot_No-Reference_IQA.git
