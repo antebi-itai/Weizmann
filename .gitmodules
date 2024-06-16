@@ -28,3 +28,6 @@
 [submodule "VideoRollingShutter"]
 	path = VideoRollingShutter
 	url = https://github.com/eyalnaor/VideoRollingShutter.git
+[submodule "TransferLearningReconstruction"]
+	path = TransferLearningReconstruction
+	url = https://github.com/YakirOz/code_to_publish.git
