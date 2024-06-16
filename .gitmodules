@@ -25,3 +25,6 @@
 [submodule "Thesis"]
 	path = Thesis
 	url = https://github.com/antebi-itai/Zero-Shot_No-Reference_IQA.git
+[submodule "VideoRollingShutter"]
+	path = VideoRollingShutter
+	url = https://github.com/eyalnaor/VideoRollingShutter.git
